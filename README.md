@@ -1,6 +1,6 @@
 # Awesome-Cloud-Web-Hosting-Web-Portal
 
-# Top Cloud Web Hosting & Web Portal Ecosystem
+## Top Cloud Web Hosting & Web Portal Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Static Site Hosting, Managed WordPress & Cloud Application Deployment*  
