@@ -109,7 +109,7 @@ Contributions are warmly welcomed! Help keep this awesome collection fresh and c
 1. 🍴 **Fork** the repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/new-hosting-entry`.
 3. ✍️ Add or update entries in `README.md` following the established table structure.
-4. 📋 Ensure entries contain accurate links, company scale, specific pricing, specific free tier limits, and GitHub Stars_Badges (for open source).
+4. 📋 Ensure entries contain accurate links, company scale, specific pricing, specific free tier limits, and GitHub_Stars_Badges (for open source).
 5. 🚀 Commit your improvements and open a Pull Request with a clear description.
 
 ---
