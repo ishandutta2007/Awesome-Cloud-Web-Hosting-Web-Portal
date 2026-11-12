@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal?color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Web-Hosting-Web-Portal?color=blue" alt="License" /></a>
@@ -82,9 +82,9 @@ Below is a detailed comparison of industry-leading cloud hosting and web portal 
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source self-hosted PaaS solutions, application deployment runtimes, and web hosting server control panels. Sorted in descending order by GitHub community star counts:
+Explore the top open-source self-hosted PaaS solutions, application deployment runtimes, and web hosting server control panels. Sorted in descending order by GitHub community Stars_Counts:
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---|---|---|
 | **[Coolify](https://github.com/coollabsio/coolify)** | [![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social&color=white)](https://github.com/coollabsio/coolify/stargazers) | Self-hosted Heroku/Vercel/Netlify alternative. Deploy static sites, Node.js, Python, PHP, and databases on your own VPS with Git integration and automatic SSL. |
 | **[Dokku](https://github.com/dokku/dokku)** | [![Stars](https://img.shields.io/github/stars/dokku/dokku?style=social&color=white)](https://github.com/dokku/dokku/stargazers) | Lightweight Heroku alternative. Git-push deployments to Docker containers on a single server. Battle-tested, extensible, and widely adopted PaaS. |
@@ -109,7 +109,7 @@ Contributions are warmly welcomed! Help keep this awesome collection fresh and c
 1. 🍴 **Fork** the repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/new-hosting-entry`.
 3. ✍️ Add or update entries in `README.md` following the established table structure.
-4. 📋 Ensure entries contain accurate links, company scale, specific pricing, specific free tier limits, and GitHub star badges (for open source).
+4. 📋 Ensure entries contain accurate links, company scale, specific pricing, specific free tier limits, and GitHub Stars_Badges (for open source).
 5. 🚀 Commit your improvements and open a Pull Request with a clear description.
 
 ---
